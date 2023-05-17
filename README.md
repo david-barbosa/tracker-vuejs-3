@@ -1,5 +1,5 @@
 # tracker
-Acesso: https://david-barbosa.github.io/tracker-vuejs-3/
+
 ## Project setup
 ```
 npm install
